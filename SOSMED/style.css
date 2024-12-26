@@ -1,0 +1,15 @@
+.social-link {
+    text-decoration: none; /* Hilangkan garis bawah pada tautan */
+    color: inherit; /* Gunakan warna teks bawaan */
+  }
+  
+  .social-logo me-2 {
+    width: 30px; /* Atur ukuran gambar */
+    height: auto; /* Jaga proporsi gambar */
+    margin-right: 10px; /* Jarak antara gambar dan teks */
+  }
+  
+  .logo-text {
+    font-size: 16px; /* Atur ukuran teks */
+    line-height: 1; /* Tinggi baris untuk menyelaraskan teks */
+  }
